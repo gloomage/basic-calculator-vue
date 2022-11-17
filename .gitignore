@@ -1,1 +1,4 @@
+# ignora os arquivos com extensões 
+.gitignore
+# ignora quaisquer diretórios chamados "metadata"
 node_modules
